@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Anant Gaire",
+    "occupation": "",
+    "description": "ReactJS && Web Developer",
+    "image": "Anant.jpg",
+    "bio": "My name is Anant, I'm a ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "56.anant@gmail.com",
+    "phone": "+977 9819448134",
+    "address": {
+      "street": "Kupondole",
+      "city": "Lalitpur",
+      "state": "Bagmati",
+      "zip": "44600"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gaire.anant/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anant-gaire-b4950a186/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gaire_babu/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gaire56",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Interested in PROGRAMMING, IT and Research works. I am goot at",
+    "education": [
+      {
+        "school": "Patan Muliple Campus",
+        "degree": "Bachelor's Degree",
+        "graduated": "January 2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "GetMandu International pvt.Ltd.",
+        "title": "Team Member && React Specialist",
+        "years": "Jan 2020 - Nov 2020",
+        "description": "Building ReactJs website"
+      },
+      {
+        "company": "Action on Disability Rights and Development Nepal",
+        "title": "IT Officer",
+        "years": "Sept 2018 - Feb 2020",
+        "description": "Building ReactAPP, a gambling website and making audio books for print disability"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "CSS3",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with ReactJS and Firebase",
+        "category": "Amazon Clone built with React and Firebase",
+        "image": "amazon.jpg",
+        "url": "https://challenge-93505.web.app/"
+      },
+      {
+        "title": "Gmail Clone",
+        "category": "Gmail Clone built with ReactJS and Firebase",
+        "image": "gmail.jpg",
+        "url": "https://clone-af032.web.app/"
+      }
+      ,
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS and Firebase",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-25407.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Anant Gaire must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Roshan Karki"
+      }
+      
+    ]
+  }
+}
